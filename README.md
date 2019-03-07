@@ -1,4 +1,4 @@
-# Data Challenge 2 - Pricing Test
+# Product Pricing Data Challenge
 ### Place your submissions to the Submissions sub-folder with the naming convention: lname_fname_DC2.
 
 
@@ -57,3 +57,4 @@ lat : city latitude - should match user city
 long : city longitude - should match user city
 
 This challenge has been taken from the book "A collection of Data Science Take-home Challenges" by Giulio Palombo.
+This was an Insight Data Science Challenge
