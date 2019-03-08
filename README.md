@@ -55,4 +55,5 @@ lat : city latitude - should match user city
 long : city longitude - should match user city
 
 This challenge has been taken from the book "A collection of Data Science Take-home Challenges" by Giulio Palombo.
-This was an Insight Data Science Challenge
+
+#### This was a practice Insight Data Science Challenge
