@@ -57,3 +57,4 @@ long : city longitude - should match user city
 This challenge has been taken from the book "A collection of Data Science Take-home Challenges" by Giulio Palombo.
 
 #### This was a practice Insight Data Science Challenge
+#### Exercise was completed in ~4 hours
